@@ -1,38 +1,37 @@
 ---
-title: wuliyaya
+title: Hexo 搭建私人博客系统
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
-## Quick Start
+## 快速开始
 
-### Create a new post
+### 新建文章
 
-``` bash
+```bash
 $ hexo new "My New Post"
 ```
 
 More info: [Writing](https://hexo.io/docs/writing.html)
 
-### Run server
+### 本地启动服务
 
-``` bash
+```bash
 $ hexo server
 ```
 
 More info: [Server](https://hexo.io/docs/server.html)
 
-### Generate static files
+### 构建静态文件
 
-``` bash
+```bash
 $ hexo generate
 ```
 
 More info: [Generating](https://hexo.io/docs/generating.html)
 
-### Deploy to remote sites
+### 远程部署
 
-``` bash
+```bash
 $ hexo deploy
 ```
 
-More info: [Deployment](https://hexo.io/docs/deployment.html)
+更多: [Deployment](https://hexo.io/docs/deployment.html)
